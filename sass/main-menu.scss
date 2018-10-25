@@ -1,0 +1,28 @@
+header {
+  .bg-faded {
+    background-color: inherit;
+  }
+  .form-control {
+    background-color: inherit;
+    border: none;
+  }
+
+  .input-group-btn {
+    background-color: inherit;
+    .btn-primary {
+      background-color: inherit;
+      border: none;
+      &:hover {
+        background-color: gray;
+        color: deepskyblue;
+        outline: none;
+      }
+    }
+  }
+
+  .navbar-light .navbar-toggler {
+    border-color: white;
+  }
+
+}
+

@@ -1,0 +1,31 @@
+/* line 3, ../sass/reaply-form.scss */
+.reaply-form .form-control {
+  background-color: #efefef;
+  border-radius: 0;
+  border-color: transparent;
+  min-height: 100%;
+}
+/* line 10, ../sass/reaply-form.scss */
+.reaply-form .form-control:focus {
+  border-color: #87b672;
+}
+/* line 14, ../sass/reaply-form.scss */
+.reaply-form h5 {
+  font: 600 14px/22px "Open Sans";
+  color: #636566;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
+/* line 22, ../sass/reaply-form.scss */
+.reaply-form p {
+  font: 400 14px/22px "Open Sans";
+  color: #9b9999;
+  margin: 0;
+  padding: 0;
+}
+/* line 29, ../sass/reaply-form.scss */
+.reaply-form label {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,27 @@
+/* line 1, ../sass/custom-buttons.scss */
+.btn-success {
+  background-color: #87b672;
+  height: 40px;
+  border-radius: 0;
+}
+
+/* line 7, ../sass/custom-buttons.scss */
+.btn-secondary {
+  background-color: inherit;
+  width: 121px;
+  height: 40px;
+  border: 2px solid #ffffff;
+  border-radius: 0;
+}
+
+/* line 15, ../sass/custom-buttons.scss */
+.btn-info {
+  border-radius: 0;
+  background-color: #828282;
+  border: none;
+}
+
+/* line 21, ../sass/custom-buttons.scss */
+.btn-info:hover {
+  background-color: #87b672;
+}

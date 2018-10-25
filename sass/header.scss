@@ -1,0 +1,21 @@
+.line {
+  border-bottom: 1px solid white; /* Параметры границы */
+  padding: 3vh; /* Поля вокруг текста */
+  &-grey {
+    border-bottom: 1px solid #cccccc;;
+  }
+}
+
+.top-header {
+  position: absolute;
+  z-index: 5;
+  width: 100%;
+  top: 0;
+}
+
+.active {
+  color: #87b672;
+}
+
+
+

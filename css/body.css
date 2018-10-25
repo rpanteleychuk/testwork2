@@ -1,0 +1,43 @@
+/* line 1, ../sass/body.scss */
+body {
+  background-color: #fefefe;
+  font-family: "Open Sans", sans-serif;
+  position: relative;
+  color: #666262;
+}
+/* line 7, ../sass/body.scss */
+body .grey-section {
+  background-color: #efefef;
+}
+
+/* line 12, ../sass/body.scss */
+.min-bottom {
+  bottom: -90px;
+}
+
+/* line 16, ../sass/body.scss */
+.margin-section-purchase {
+  margin-top: 130px;
+}
+
+/* line 20, ../sass/body.scss */
+.page-name {
+  background: url("../images/img-brg.png") 100% 100% no-repeat;
+  background-size: cover;
+}
+
+/* line 27, ../sass/body.scss */
+.custom-pagination .active {
+  color: white;
+  background-color: #87b672;
+}
+/* line 31, ../sass/body.scss */
+.custom-pagination a {
+  border: none;
+  color: #666262;
+}
+/* line 36, ../sass/body.scss */
+.custom-pagination a:hover {
+  color: #87b672;
+  background-color: #d4d4d4;
+}

@@ -1,0 +1,54 @@
+body {
+  background-color: #fefefe;
+  font-family: "Open Sans", sans-serif;
+  position: relative;
+  color: #666262;
+
+  .grey-section {
+    background-color: #efefef;
+  }
+}
+
+.min-bottom {
+  bottom: -90px;
+}
+
+.margin-section-purchase {
+  margin-top: 130px;
+}
+
+.page-name {
+  background: url('../images/img-brg.png') 100% 100% no-repeat;
+  background-size: cover;
+}
+
+.custom-pagination {
+
+  .active {
+    color: white;
+    background-color: #87b672;
+  }
+  a {
+    border: none;
+    color: #666262;
+  }
+
+  a:hover {
+    color: #87b672;
+    background-color: #d4d4d4;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

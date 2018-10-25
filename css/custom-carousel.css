@@ -1,0 +1,8 @@
+/* line 1, ../sass/custom-carousel.scss */
+.custom-carousel {
+  position: relative;
+}
+/* line 5, ../sass/custom-carousel.scss */
+.custom-carousel .carousel-inner .carousel-caption {
+  top: 40%;
+}

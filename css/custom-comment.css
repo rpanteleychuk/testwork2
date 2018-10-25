@@ -1,0 +1,20 @@
+/* line 2, ../sass/custom-comment.scss */
+.custom-comment a {
+  text-decoration: none;
+  color: #87b672;
+}
+/* line 7, ../sass/custom-comment.scss */
+.custom-comment a:hover {
+  color: darkgreen;
+  text-decoration: none;
+}
+/* line 12, ../sass/custom-comment.scss */
+.custom-comment h5 {
+  font: 700 16px/20px "Open Sans";
+  color: #666262;
+}
+/* line 17, ../sass/custom-comment.scss */
+.custom-comment time {
+  font: 500 14px/20px "Open Sans";
+  color: #9b9999;
+}

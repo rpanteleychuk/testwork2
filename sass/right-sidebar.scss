@@ -1,0 +1,17 @@
+.right-sidebar {
+  .popular-post {
+    li {
+      padding: 10px 0;
+    }
+  }
+  li {
+    list-style-type: none;
+  }
+  a {
+    color: #9b9999;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #87b672;
+  }
+}

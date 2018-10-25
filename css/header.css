@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* line 1, ../sass/header.scss */
+.line {
+  border-bottom: 1px solid white;
+  /* ╨Я╨░╤А╨░╨╝╨╡╤В╤А╤Л ╨│╤А╨░╨╜╨╕╤Ж╤Л */
+  padding: 3vh;
+  /* ╨Я╨╛╨╗╤П ╨▓╨╛╨║╤А╤Г╨│ ╤В╨╡╨║╤Б╤В╨░ */
+}
+/* line 4, ../sass/header.scss */
+.line-grey {
+  border-bottom: 1px solid #cccccc;
+}
+
+/* line 9, ../sass/header.scss */
+.top-header {
+  position: absolute;
+  z-index: 5;
+  width: 100%;
+  top: 0;
+}
+
+/* line 16, ../sass/header.scss */
+.active {
+  color: #87b672;
+}

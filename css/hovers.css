@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* ╨╖╨░╤В╨╡╨╝╨╜╨╡╨╜╨╕╨╡ ╤Б╨╛╤Ж╨╕╨░╨╗╨╛╨║ -----------------------------*/
+/* line 2, ../sass/hovers.scss */
+.banners a i {
+  opacity: 0.6;
+  -moz-opacity: 0.3;
+  filter: alpha(opacity=40);
+}
+
+/* line 6, ../sass/hovers.scss */
+.banners a:hover i {
+  opacity: 1.0;
+  -moz-opacity: 1.0;
+  filter: alpha(opacity=100);
+}
+
+/* /╨╖╨░╤В╨╡╨╝╨╜╨╡╨╜╨╕╨╡ ╤Б╨╛╤Ж╨╕╨░╨╗╨╛╨║ ---------------------------*/
+/* ╨╖╨░╤В╨╡╨╝╨╜╨╡╨╜╨╕╨╡ ╨╝╨╡╨╜╤О -----------------------------*/
+/* line 14, ../sass/hovers.scss */
+.hover-white a {
+  opacity: 1;
+  -moz-opacity: 0.3;
+  filter: alpha(opacity=40);
+}
+
+/* line 18, ../sass/hovers.scss */
+.hover-white a:hover {
+  opacity: 0.5;
+  -moz-opacity: 1.0;
+  filter: alpha(opacity=100);
+}
+
+/* /╨╖╨░╤В╨╡╨╝╨╜╨╡╨╜╨╕╨╡ ╨╝╨╡╨╜╤О ---------------------------*/
+/* line 25, ../sass/hovers.scss */
+.brighten img {
+  -webkit-filter: brightness(65%);
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+/* line 34, ../sass/hovers.scss */
+.brighten img:hover {
+  -webkit-filter: brightness(100%);
+}

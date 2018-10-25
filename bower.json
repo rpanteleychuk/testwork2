@@ -1,0 +1,22 @@
+{
+  "name": "deliver_home",
+  "homepage": "https://github.com/rpanteleychuk/deliver_home",
+  "authors": [
+    "prosst <r.panteleychuk@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}

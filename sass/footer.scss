@@ -1,0 +1,32 @@
+footer {
+  background-color: #333333;
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #87b672;
+
+    text-decoration: none;
+  }
+
+  .nav-link {
+    margin: 0;
+    padding: 0vw 10px 0vw 10px;
+  }
+
+  .form-group {
+    margin-bottom: 0;
+    input {
+      max-width: 120px;
+      background-color: #4e4c4c;
+      border-radius: 0;
+
+    }
+  }
+
+  .form-control:focus {
+    border-color: #87b672;
+  }
+}

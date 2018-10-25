@@ -1,0 +1,17 @@
+/* line 3, ../sass/right-sidebar.scss */
+.right-sidebar .popular-post li {
+  padding: 10px 0;
+}
+/* line 7, ../sass/right-sidebar.scss */
+.right-sidebar li {
+  list-style-type: none;
+}
+/* line 10, ../sass/right-sidebar.scss */
+.right-sidebar a {
+  color: #9b9999;
+  text-decoration: none;
+}
+/* line 14, ../sass/right-sidebar.scss */
+.right-sidebar a:hover {
+  color: #87b672;
+}

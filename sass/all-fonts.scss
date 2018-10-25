@@ -1,0 +1,44 @@
+.fnt-medium {
+  font: 600 18px/18px "Open Sans";
+  &-lite {
+    font: 400 14px/18px "Open Sans";
+  }
+}
+
+.fnt-big {
+  font: 600 36px/60px "Open Sans";
+  &-green {
+    font: 600 36px/24px "Open Sans";
+    color: #87b672;
+  }
+}
+
+.fnt-lite {
+  font: 400 22px/18px "Open Sans";
+}
+
+.fnt-grey {
+  font: 600 22px/24px "Open Sans";
+  color: #666262;
+  &-lite {
+    font: 400 16px/24px "Open Sans";
+    color: #9b9999;
+  }
+  &-xlite {
+    font: 400 12px/24px "Open Sans";
+    color: #9b9999;
+  }
+  &-small {
+    font: 600 18px/22px "Open Sans";
+    color: #666262;
+  }
+}
+
+
+.fnt-med {
+  font: 600 11px/14px "Open Sans";
+  color: #9b9999;
+}
+
+
+

@@ -1,0 +1,14 @@
+/* line 4, ../sass/blog-style.scss */
+.blog-section .date-form, .blog-section .author-form, .blog-section .category-form, .blog-section .comment-form {
+  background-color: #efefef;
+  min-height: 40px;
+}
+/* line 8, ../sass/blog-style.scss */
+.blog-section audio {
+  width: 100%;
+}
+/* line 12, ../sass/blog-style.scss */
+.blog-section iframe {
+  width: 100%;
+  height: 400px;
+}

@@ -1,0 +1,32 @@
+/* line 1, ../sass/footer.scss */
+footer {
+  background-color: #333333;
+}
+/* line 4, ../sass/footer.scss */
+footer a {
+  text-decoration: none;
+}
+/* line 8, ../sass/footer.scss */
+footer a:hover {
+  color: #87b672;
+  text-decoration: none;
+}
+/* line 14, ../sass/footer.scss */
+footer .nav-link {
+  margin: 0;
+  padding: 0vw 10px 0vw 10px;
+}
+/* line 19, ../sass/footer.scss */
+footer .form-group {
+  margin-bottom: 0;
+}
+/* line 21, ../sass/footer.scss */
+footer .form-group input {
+  max-width: 120px;
+  background-color: #4e4c4c;
+  border-radius: 0;
+}
+/* line 29, ../sass/footer.scss */
+footer .form-control:focus {
+  border-color: #87b672;
+}

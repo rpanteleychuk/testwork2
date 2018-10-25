@@ -1,0 +1,34 @@
+.reaply-form {
+
+  .form-control {
+    background-color: #efefef;
+    border-radius: 0;
+    border-color: transparent;
+    min-height: 100%;
+  }
+
+  .form-control:focus {
+    border-color: #87b672;
+  }
+
+  h5 {
+    font: 600 14px/22px "Open Sans";
+    color: #636566;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+  }
+
+  p {
+    font: 400 14px/22px "Open Sans";
+    color: #9b9999;
+    margin: 0;
+    padding: 0;
+  }
+
+  label {
+    margin: 0;
+    padding: 0;
+  }
+
+}
